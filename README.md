@@ -8,6 +8,6 @@ To be submitted for credit, all changes must be committed and pushed to this rep
 Each question is worth one point.
 
 ## Exporting to HTML
-Project was export to html using
-`jupyter nbconvert --to html python-ds.ipynb`
-`jupyter nbconvert --to html s5772377.ipynb`
+Project was export to html using:  
+`jupyter nbconvert --to html python-ds.ipynb`  
+`jupyter nbconvert --to html s5772377.ipynb`  
